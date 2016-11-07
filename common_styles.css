@@ -1,0 +1,46 @@
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto Mono', monospace;
+}
+.title-holder {
+  margin-top: 40px;
+  text-align: center;
+}
+h2 {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 700;
+}
+.plus {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+}
+.body-container {
+  height: 500px;
+  width: 750px;
+  margin: 20px auto;
+  padding-top: 50px;
+  background-color: #FFFFFF;
+  text-align: center;
+  word-spacing: 2px;
+}
+h3 {
+  font-weight: 100;
+  font-size: 18px;
+}
+.icon-holder {
+  height: 50px;
+  width: 750px;
+}
+.facebook {
+  height: 30px;
+  width: 30px;
+}
+.linkedin {
+  height: 30px;
+  width: 30px;
+}
+a {
+  text-decoration: none;
+}
